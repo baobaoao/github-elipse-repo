@@ -65,7 +65,7 @@
 	<div id="moviebox" style="margin-top: 100px; display: none"
 		align="center">
 		<video id="movie" height="400px" controls="controls"
-			src="/static/audio/earth.mp4" onended="onVideoEnd();" />
+			src="/static/audio/earth1.mp4" onended="onVideoEnd();" />
 	</div>
 </body>
 </html>
